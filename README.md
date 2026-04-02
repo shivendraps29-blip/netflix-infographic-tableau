@@ -138,3 +138,13 @@ Netflix titles dataset from Kaggle — 8,807 rows,
 12 columns covering show_id, type, title, director, 
 cast, country, date_added, release_year, rating, 
 duration, listed_in, and description.
+
+## Screenshots
+
+![nt](https://github.com/user-attachments/assets/0f414d87-e342-4e73-bdd2-9c34538f0b49)
+
+![nt2](https://github.com/user-attachments/assets/1366df2c-d8e1-49c0-aaff-cf1a5c6b31c4)
+
+![nt3](https://github.com/user-attachments/assets/887eae72-0327-448c-a192-f400ffa23c97)
+
+
